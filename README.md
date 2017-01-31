@@ -18,8 +18,9 @@ Getting up and running is as easy as 1, 2, 3.
     ```
 
 3. Edit the following two  files with your own spark token look for <your token here>:
-   public/js/spark.js
-   public/business/js/conatct.js
+
+  * public/js/spark.js
+  * public/business/js/conatct.js
 
 4. Start your app
     
